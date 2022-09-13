@@ -1,0 +1,79 @@
+[33mcommit 301bcd8765353961b0d2eaf6cebc8937a3affa58[m[33m ([m[1;36mHEAD -> [m[1;32mupdated[m[33m)[m
+Author: Shreyas <bsvshreyas24@gmail.com>
+Date:   Sat Sep 10 19:13:44 2022 -0700
+
+    temp
+
+[33mcommit 87907c5cbc7e26dd5f08ad87258f169e97d7e8fc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 21:45:28 2018 -0700
+
+    Added retrospective
+
+[33mcommit 845975daaac324688b4cd69a73fb4461e5ce4252[m
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 21:43:01 2018 -0700
+
+    Through step 8
+
+[33mcommit 1eca980176ae5bc3528922210daf822451560fe8[m
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 21:27:30 2018 -0700
+
+    showed example with the proper pull request settings
+
+[33mcommit dd64fa0607950e47c7eeecf0c5631a37175eb437[m
+Merge: 9a9505f 4504af5
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 21:21:28 2018 -0700
+
+    Merge branch 'master' of github.com:CSUN-COMP587-F18/assign1
+
+[33mcommit 9a9505fffbf29439c45470d6296e69885e9120ea[m
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 21:21:09 2018 -0700
+
+    added picture showing where to click to start a pull request
+
+[33mcommit 4504af5600bd8b09490953d447d338fdf8bc9794[m
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 20:53:08 2018 -0700
+
+    through step 6
+
+[33mcommit 721379a49f06a05368dafc9cfcd1abae1f601f48[m
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 20:18:06 2018 -0700
+
+    Up until step 4
+
+[33mcommit 6c3a8ee81376e89aab23087e806d069f7f2ebdaa[m
+Merge: 2ebba60 0c26af1
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 19:32:59 2018 -0700
+
+    Merge branch 'master' of github.com:CSUN-COMP587-F18/assign1
+
+[33mcommit 2ebba60b2aa73ffd48c7a54044857e477210a526[m
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 19:32:43 2018 -0700
+
+    added picture showing position of clone button
+
+[33mcommit 0c26af13ef62cf8e8b4005a3da0f77395543bba1[m
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 19:09:17 2018 -0700
+
+    Instructions through step 1
+
+[33mcommit db1501d3fa655d0f5d99af8b068b2a5cc3683bea[m
+Author: Kyle Dewey <kyle.dewey@csun.edu>
+Date:   Tue Sep 4 19:03:57 2018 -0700
+
+    added picture showing position of fork button
+
+[33mcommit f4cbdf771fb1b7da6c063a60287248df786fec0f[m
+Author: Kyle Dewey <kyle.t.dewey@gmail.com>
+Date:   Tue Sep 4 18:41:06 2018 -0700
+
+    Initial commit
